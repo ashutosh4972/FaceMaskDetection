@@ -16,7 +16,7 @@ TensorFlow: Employed to train and deploy deep learning models for face mask clas
 MobileNetV2: The chosen neural network architecture for its balance between speed and accuracy in real-time applications.
 
 **Usage**
-Clone the repository: git clone https://github.com/your-username/FaceMaskDetection.git
+Clone the repository: git clone https://github.com/ashutosh4972/FaceMaskDetection.git
 Download the trained model from the drive lin or train the model using the notebook file and dataset from the drive link. 
 Link - https://drive.google.com/drive/folders/1qlMBq1-AM0-ziR77XBgo_Xr8IFkII3OW?usp=sharing
 Paste the model in the same directory.
